@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="key">value</string>
+    <string name="SHUIYU_USER_NAME">t</string>
+    <string name="SHUIYU_PASSWORD">t</string>
+    <string name="USER_ID">APP_STATUS</string>
+</map>
